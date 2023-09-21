@@ -15,7 +15,7 @@ The project consists of the following files:
 ## Snap
 ![](images/snap.png)
 ## Demo
-Check your [Typing Speed](https://amar-lahlouh.github.io/Typing-speed-Test/)
+Check your [Typing Speed](https://amar-lahlouh.github.io/Typing-speeed-Test/)
 
 ## Contributing
 Feel free to Contribute by creating a Pull Request or an Issue.
